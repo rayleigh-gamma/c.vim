@@ -24,3 +24,6 @@ let c_function_pointers = 1
 ```
 
 For more information, check `:help c.vim`.
+
+# Additional
+The colorscheme in the screenshot can be found [here](https://github.com/rayleigh-gamma/caramel.vim).
