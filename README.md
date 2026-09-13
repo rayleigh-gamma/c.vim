@@ -6,6 +6,7 @@ This plugin extends vim's default C syntax.
 
 ## Installation
 
+### Using vim-plug
 ```vimscript
 call plug#begin()
 
