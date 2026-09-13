@@ -4,6 +4,16 @@ This plugin extends vim's default C syntax.
 
 ![screenshot](https://github.com/rayleigh-gamma/c.vim/blob/main/extra/images/screenshot.png?raw=true)
 
+## Installation
+
+```vimscript
+call plug#begin()
+
+Plug 'rayleigh-gamma/c.vim'
+
+call plug#end()
+```
+
 ## Recommended features
 To get full syntax features, add this to your `.vimrc`:
 ```vim
