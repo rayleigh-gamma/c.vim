@@ -5,7 +5,7 @@ This plugin extends vim's default C syntax.
 ![screenshot](https://github.com/rayleigh-gamma/c.vim/blob/main/extra/images/screenshot.png?raw=true)
 
 ## Recommended features
-To get full syntax features, add this to your .vimrc:
+To get full syntax features, add this to your `.vimrc`:
 ```vim
 " Highlight strings inside multi-line comments.
 let c_comment_strings = 1
